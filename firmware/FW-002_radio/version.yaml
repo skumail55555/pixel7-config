@@ -1,0 +1,8 @@
+ci_id: FW-002
+name: Radio (modem) firmware
+variant: all
+version: g5300g-220805-220812-b-8938343
+build_id: TD1A.220804.009.A2
+cr: ''
+source_type: real
+source_url: https://dl.google.com/dl/android/aosp/panther-td1a.220804.009.a2-factory-336ba5c1.zip

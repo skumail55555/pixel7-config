@@ -1,0 +1,8 @@
+ci_id: SW-007
+name: Device config device/google/pantah
+variant: all
+version: 80d006c15b39
+build_id: TD1A.220804.009.A2
+cr: ''
+source_type: real
+source_url: https://android.googlesource.com/device/google/pantah/+/80d006c15b3984bf32f153394849814eb44a5b44

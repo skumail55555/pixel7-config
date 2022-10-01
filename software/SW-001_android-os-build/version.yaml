@@ -1,0 +1,8 @@
+ci_id: SW-001
+name: Android OS build
+variant: all
+version: TD1A.220804.009.A2
+build_id: TD1A.220804.009.A2
+cr: ''
+source_type: real
+source_url: https://developers.google.com/android/images#panthertd1a.220804.009.a2
