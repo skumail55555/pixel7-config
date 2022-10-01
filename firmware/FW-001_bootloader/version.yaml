@@ -1,8 +1,8 @@
 ci_id: FW-001
 name: Bootloader
 variant: all
-version: cloudripper-1.0-8910487
-build_id: TD1A.220804.009.A2
-cr: ''
+version: cloudripper-1.0-9070028
+build_id: TD1A.220804.031
+cr: ECR-2
 source_type: real
-source_url: https://dl.google.com/dl/android/aosp/panther-td1a.220804.009.a2-factory-336ba5c1.zip
+source_url: https://dl.google.com/dl/android/aosp/panther-td1a.220804.031-factory-2f036a47.zip
