@@ -72,16 +72,16 @@ variants:
     radio: g5300g-220805-220812-b-8938343
     cr: ''
   G03Z5-JP-128:
-    build_id: TD1A.220804.009.A2
+    build_id: TD1A.220804.009.A5
     android_version: 13.0.0
     security_patch_level: '2022-09-05'
     bootloader: cloudripper-1.0-8910487
-    radio: g5300g-220805-220812-b-8938343
-    cr: ''
+    radio: g5300g-220805-220816-b-8953505
+    cr: ECR-1
   G03Z5-JP-256:
-    build_id: TD1A.220804.009.A2
+    build_id: TD1A.220804.009.A5
     android_version: 13.0.0
     security_patch_level: '2022-09-05'
     bootloader: cloudripper-1.0-8910487
-    radio: g5300g-220805-220812-b-8938343
-    cr: ''
+    radio: g5300g-220805-220816-b-8953505
+    cr: ECR-1
