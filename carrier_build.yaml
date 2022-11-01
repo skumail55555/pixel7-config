@@ -1,0 +1,14 @@
+build_id: TD1A.221105.003
+carrier: Verizon, Verizon MVNOs
+android_version: 13.0.0
+release_month: 2022-11
+Android OS build: TD1A.221105.003
+Bootloader: cloudripper-1.0-9074510
+Radio (modem) firmware: g5300g-220908-221006-b-9144834
+Security patch level: '2022-11-05'
+Device config device/google/pantah: 41bec6f82b54
+SoC config device/google/gs201: 35ec03b5b34b
+Common config device/google/gs-common: 5857f944ce58
+deployed_to_variants: []
+source_type: real
+source_url: https://developers.google.com/android/images#panthertd1a.221105.003
