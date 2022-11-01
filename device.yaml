@@ -2,86 +2,86 @@ device: Google Pixel 7 (panther)
 source_type: real
 variants:
   GVU6C-US-128:
-    build_id: TD1A.220804.031
+    build_id: TD1A.221105.001
     android_version: 13.0.0
-    security_patch_level: '2022-10-05'
-    bootloader: cloudripper-1.0-9070028
+    security_patch_level: '2022-11-05'
+    bootloader: cloudripper-1.0-9074510
     radio: g5300g-220908-220908-b-9040061
-    cr: ECR-2
+    cr: ECR-3
   GVU6C-US-256:
-    build_id: TD1A.220804.031
+    build_id: TD1A.221105.001
     android_version: 13.0.0
-    security_patch_level: '2022-10-05'
-    bootloader: cloudripper-1.0-9070028
+    security_patch_level: '2022-11-05'
+    bootloader: cloudripper-1.0-9074510
     radio: g5300g-220908-220908-b-9040061
-    cr: ECR-2
+    cr: ECR-3
   GVU6C-CA-128:
-    build_id: TD1A.220804.031
+    build_id: TD1A.221105.001
     android_version: 13.0.0
-    security_patch_level: '2022-10-05'
-    bootloader: cloudripper-1.0-9070028
+    security_patch_level: '2022-11-05'
+    bootloader: cloudripper-1.0-9074510
     radio: g5300g-220908-220908-b-9040061
-    cr: ECR-2
+    cr: ECR-3
   GVU6C-CA-256:
-    build_id: TD1A.220804.031
+    build_id: TD1A.221105.001
     android_version: 13.0.0
-    security_patch_level: '2022-10-05'
-    bootloader: cloudripper-1.0-9070028
+    security_patch_level: '2022-11-05'
+    bootloader: cloudripper-1.0-9074510
     radio: g5300g-220908-220908-b-9040061
-    cr: ECR-2
+    cr: ECR-3
   GVU6C-EU-128:
-    build_id: TD1A.220804.031
+    build_id: TD1A.221105.001
     android_version: 13.0.0
-    security_patch_level: '2022-10-05'
-    bootloader: cloudripper-1.0-9070028
+    security_patch_level: '2022-11-05'
+    bootloader: cloudripper-1.0-9074510
     radio: g5300g-220908-220908-b-9040061
-    cr: ECR-2
+    cr: ECR-3
   GVU6C-EU-256:
-    build_id: TD1A.220804.031
+    build_id: TD1A.221105.001
     android_version: 13.0.0
-    security_patch_level: '2022-10-05'
-    bootloader: cloudripper-1.0-9070028
+    security_patch_level: '2022-11-05'
+    bootloader: cloudripper-1.0-9074510
     radio: g5300g-220908-220908-b-9040061
-    cr: ECR-2
+    cr: ECR-3
   GQML3-US-128:
-    build_id: TD1A.220804.031
+    build_id: TD1A.221105.001
     android_version: 13.0.0
-    security_patch_level: '2022-10-05'
-    bootloader: cloudripper-1.0-9070028
+    security_patch_level: '2022-11-05'
+    bootloader: cloudripper-1.0-9074510
     radio: g5300g-220908-220908-b-9040061
-    cr: ECR-2
+    cr: ECR-3
   GQML3-US-256:
-    build_id: TD1A.220804.031
+    build_id: TD1A.221105.001
     android_version: 13.0.0
-    security_patch_level: '2022-10-05'
-    bootloader: cloudripper-1.0-9070028
+    security_patch_level: '2022-11-05'
+    bootloader: cloudripper-1.0-9074510
     radio: g5300g-220908-220908-b-9040061
-    cr: ECR-2
+    cr: ECR-3
   GQML3-EU-128:
-    build_id: TD1A.220804.031
+    build_id: TD1A.221105.001
     android_version: 13.0.0
-    security_patch_level: '2022-10-05'
-    bootloader: cloudripper-1.0-9070028
+    security_patch_level: '2022-11-05'
+    bootloader: cloudripper-1.0-9074510
     radio: g5300g-220908-220908-b-9040061
-    cr: ECR-2
+    cr: ECR-3
   GQML3-EU-256:
-    build_id: TD1A.220804.031
+    build_id: TD1A.221105.001
     android_version: 13.0.0
-    security_patch_level: '2022-10-05'
-    bootloader: cloudripper-1.0-9070028
+    security_patch_level: '2022-11-05'
+    bootloader: cloudripper-1.0-9074510
     radio: g5300g-220908-220908-b-9040061
-    cr: ECR-2
+    cr: ECR-3
   G03Z5-JP-128:
-    build_id: TD1A.220804.031
+    build_id: TD1A.221105.001
     android_version: 13.0.0
-    security_patch_level: '2022-10-05'
-    bootloader: cloudripper-1.0-9070028
+    security_patch_level: '2022-11-05'
+    bootloader: cloudripper-1.0-9074510
     radio: g5300g-220908-220908-b-9040061
-    cr: ECR-2
+    cr: ECR-3
   G03Z5-JP-256:
-    build_id: TD1A.220804.031
+    build_id: TD1A.221105.001
     android_version: 13.0.0
-    security_patch_level: '2022-10-05'
-    bootloader: cloudripper-1.0-9070028
+    security_patch_level: '2022-11-05'
+    bootloader: cloudripper-1.0-9074510
     radio: g5300g-220908-220908-b-9040061
-    cr: ECR-2
+    cr: ECR-3
