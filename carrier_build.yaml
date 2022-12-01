@@ -1,0 +1,14 @@
+build_id: TQ1A.221205.012
+carrier: O2 UK
+android_version: 13.0.0
+release_month: 2022-12
+Android OS build: TQ1A.221205.012
+Bootloader: cloudripper-1.0-9231809
+Radio (modem) firmware: g5300g-220923-221028-b-9229469
+Security patch level: '2022-12-05'
+Device config device/google/pantah: 664994ca8682
+SoC config device/google/gs201: eacf356c8d06
+Common config device/google/gs-common: 8b730c1afe40
+deployed_to_variants: []
+source_type: real
+source_url: https://developers.google.com/android/images#panthertq1a.221205.012
