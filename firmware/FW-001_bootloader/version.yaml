@@ -1,8 +1,8 @@
 ci_id: FW-001
 name: Bootloader
 variant: all
-version: cloudripper-1.0-9231809
-build_id: TQ1A.221205.011
-cr: ECR-4
+version: cloudripper-1.0-9288096
+build_id: TQ1A.230105.001.A2
+cr: ECR-5
 source_type: real
-source_url: https://dl.google.com/dl/android/aosp/panther-tq1a.221205.011-factory-ab58bb03.zip
+source_url: https://dl.google.com/dl/android/aosp/panther-tq1a.230105.001.a2-factory-264b1602.zip

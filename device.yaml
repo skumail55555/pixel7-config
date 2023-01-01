@@ -2,86 +2,86 @@ device: Google Pixel 7 (panther)
 source_type: real
 variants:
   GVU6C-US-128:
-    build_id: TQ1A.221205.011
+    build_id: TQ1A.230105.001.A2
     android_version: 13.0.0
-    security_patch_level: '2022-12-05'
-    bootloader: cloudripper-1.0-9231809
+    security_patch_level: '2023-01-05'
+    bootloader: cloudripper-1.0-9288096
     radio: g5300g-220923-221028-b-9229469
-    cr: ECR-4
+    cr: ECR-5
   GVU6C-US-256:
-    build_id: TQ1A.221205.011
+    build_id: TQ1A.230105.001.A2
     android_version: 13.0.0
-    security_patch_level: '2022-12-05'
-    bootloader: cloudripper-1.0-9231809
+    security_patch_level: '2023-01-05'
+    bootloader: cloudripper-1.0-9288096
     radio: g5300g-220923-221028-b-9229469
-    cr: ECR-4
+    cr: ECR-5
   GVU6C-CA-128:
-    build_id: TQ1A.221205.011
+    build_id: TQ1A.230105.001.A2
     android_version: 13.0.0
-    security_patch_level: '2022-12-05'
-    bootloader: cloudripper-1.0-9231809
+    security_patch_level: '2023-01-05'
+    bootloader: cloudripper-1.0-9288096
     radio: g5300g-220923-221028-b-9229469
-    cr: ECR-4
+    cr: ECR-5
   GVU6C-CA-256:
-    build_id: TQ1A.221205.011
+    build_id: TQ1A.230105.001.A2
     android_version: 13.0.0
-    security_patch_level: '2022-12-05'
-    bootloader: cloudripper-1.0-9231809
+    security_patch_level: '2023-01-05'
+    bootloader: cloudripper-1.0-9288096
     radio: g5300g-220923-221028-b-9229469
-    cr: ECR-4
+    cr: ECR-5
   GVU6C-EU-128:
-    build_id: TQ1A.221205.011
+    build_id: TQ1A.230105.001.A2
     android_version: 13.0.0
-    security_patch_level: '2022-12-05'
-    bootloader: cloudripper-1.0-9231809
+    security_patch_level: '2023-01-05'
+    bootloader: cloudripper-1.0-9288096
     radio: g5300g-220923-221028-b-9229469
-    cr: ECR-4
+    cr: ECR-5
   GVU6C-EU-256:
-    build_id: TQ1A.221205.011
+    build_id: TQ1A.230105.001.A2
     android_version: 13.0.0
-    security_patch_level: '2022-12-05'
-    bootloader: cloudripper-1.0-9231809
+    security_patch_level: '2023-01-05'
+    bootloader: cloudripper-1.0-9288096
     radio: g5300g-220923-221028-b-9229469
-    cr: ECR-4
+    cr: ECR-5
   GQML3-US-128:
-    build_id: TQ1A.221205.011
+    build_id: TQ1A.230105.001.A2
     android_version: 13.0.0
-    security_patch_level: '2022-12-05'
-    bootloader: cloudripper-1.0-9231809
+    security_patch_level: '2023-01-05'
+    bootloader: cloudripper-1.0-9288096
     radio: g5300g-220923-221028-b-9229469
-    cr: ECR-4
+    cr: ECR-5
   GQML3-US-256:
-    build_id: TQ1A.221205.011
+    build_id: TQ1A.230105.001.A2
     android_version: 13.0.0
-    security_patch_level: '2022-12-05'
-    bootloader: cloudripper-1.0-9231809
+    security_patch_level: '2023-01-05'
+    bootloader: cloudripper-1.0-9288096
     radio: g5300g-220923-221028-b-9229469
-    cr: ECR-4
+    cr: ECR-5
   GQML3-EU-128:
-    build_id: TQ1A.221205.011
+    build_id: TQ1A.230105.001.A2
     android_version: 13.0.0
-    security_patch_level: '2022-12-05'
-    bootloader: cloudripper-1.0-9231809
+    security_patch_level: '2023-01-05'
+    bootloader: cloudripper-1.0-9288096
     radio: g5300g-220923-221028-b-9229469
-    cr: ECR-4
+    cr: ECR-5
   GQML3-EU-256:
-    build_id: TQ1A.221205.011
+    build_id: TQ1A.230105.001.A2
     android_version: 13.0.0
-    security_patch_level: '2022-12-05'
-    bootloader: cloudripper-1.0-9231809
+    security_patch_level: '2023-01-05'
+    bootloader: cloudripper-1.0-9288096
     radio: g5300g-220923-221028-b-9229469
-    cr: ECR-4
+    cr: ECR-5
   G03Z5-JP-128:
-    build_id: TQ1A.221205.011
+    build_id: TQ1A.230105.001.A2
     android_version: 13.0.0
-    security_patch_level: '2022-12-05'
-    bootloader: cloudripper-1.0-9231809
+    security_patch_level: '2023-01-05'
+    bootloader: cloudripper-1.0-9288096
     radio: g5300g-220923-221028-b-9229469
-    cr: ECR-4
+    cr: ECR-5
   G03Z5-JP-256:
-    build_id: TQ1A.221205.011
+    build_id: TQ1A.230105.001.A2
     android_version: 13.0.0
-    security_patch_level: '2022-12-05'
-    bootloader: cloudripper-1.0-9231809
+    security_patch_level: '2023-01-05'
+    bootloader: cloudripper-1.0-9288096
     radio: g5300g-220923-221028-b-9229469
-    cr: ECR-4
+    cr: ECR-5
