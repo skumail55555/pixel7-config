@@ -1,0 +1,14 @@
+build_id: TQ2A.230305.008.A1
+carrier: WINDTRE/Canada
+android_version: 13.0.0
+release_month: 2023-03
+Android OS build: TQ2A.230305.008.A1
+Bootloader: cloudripper-1.0-9592577
+Radio (modem) firmware: g5300g-221229-230213-b-9597821
+Security patch level: '2023-03-05'
+Device config device/google/pantah: 2d7c3de79250
+SoC config device/google/gs201: 0cd9beb290a8
+Common config device/google/gs-common: 1fdd62e36636
+deployed_to_variants: []
+source_type: real
+source_url: https://developers.google.com/android/images#panthertq2a.230305.008.a1
