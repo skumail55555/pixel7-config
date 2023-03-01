@@ -1,8 +1,8 @@
 ci_id: SW-008
 name: SoC config device/google/gs201
 variant: all
-version: eacf356c8d06
-build_id: TQ1A.230205.002
-cr: ECR-4
+version: 0cd9beb290a8
+build_id: TQ2A.230305.008
+cr: ECR-7
 source_type: real
-source_url: https://android.googlesource.com/device/google/gs201/+/eacf356c8d065e98cce75081ab93b92acc43f053
+source_url: https://android.googlesource.com/device/google/gs201/+/0cd9beb290a8724b72a33dd52e30c47588167375
