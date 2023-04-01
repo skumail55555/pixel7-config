@@ -1,8 +1,8 @@
 ci_id: SW-001
 name: Android OS build
 variant: all
-version: TQ2A.230305.008
-build_id: TQ2A.230305.008
-cr: ECR-7
+version: TQ2A.230405.003.E1
+build_id: TQ2A.230405.003.E1
+cr: ECR-8
 source_type: real
-source_url: https://developers.google.com/android/images#panthertq2a.230305.008
+source_url: https://developers.google.com/android/images#panthertq2a.230405.003.e1

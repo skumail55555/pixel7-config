@@ -1,8 +1,8 @@
 ci_id: FW-002
 name: Radio (modem) firmware
 variant: all
-version: g5300g-221229-230210-b-9589366
-build_id: TQ2A.230305.008
-cr: ECR-7
+version: g5300g-221229-230323-b-9800995
+build_id: TQ2A.230405.003.E1
+cr: ECR-8
 source_type: real
-source_url: https://dl.google.com/dl/android/aosp/panther-tq2a.230305.008-factory-3dcff7d6.zip
+source_url: https://dl.google.com/dl/android/aosp/panther-tq2a.230405.003.e1-factory-ae8e7da5.zip
