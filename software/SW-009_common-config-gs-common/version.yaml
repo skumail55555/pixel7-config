@@ -1,8 +1,8 @@
 ci_id: SW-009
 name: Common config device/google/gs-common
 variant: all
-version: 1fdd62e36636
-build_id: TQ2A.230505.002
-cr: ECR-7
+version: 85e4450447b7
+build_id: TQ3A.230605.012
+cr: ECR-9
 source_type: real
-source_url: https://android.googlesource.com/device/google/gs-common/+/1fdd62e36636d3baaf1a5a4b9c4db786bee362b8
+source_url: https://android.googlesource.com/device/google/gs-common/+/85e4450447b782ce7f430c8eefb5820ba40516d4
