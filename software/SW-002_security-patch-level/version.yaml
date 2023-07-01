@@ -1,8 +1,8 @@
 ci_id: SW-002
 name: Security patch level
 variant: all
-version: '2023-06-05'
-build_id: TQ3A.230605.012
-cr: ECR-9
+version: '2023-07-05'
+build_id: TQ3A.230705.001
+cr: ECR-6
 source_type: real
 source_url: https://source.android.com/docs/setup/reference/build-numbers

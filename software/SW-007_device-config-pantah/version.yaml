@@ -1,8 +1,8 @@
 ci_id: SW-007
 name: Device config device/google/pantah
 variant: all
-version: dc6d225fb4ee
-build_id: TQ3A.230605.012
-cr: ECR-9
+version: 7872b30fdc49
+build_id: TQ3A.230705.001
+cr: ECR-6
 source_type: real
-source_url: https://android.googlesource.com/device/google/pantah/+/dc6d225fb4ee7f8f47299ccbbcdd3bd2d08a5c1a
+source_url: https://android.googlesource.com/device/google/pantah/+/7872b30fdc49e16e4e323e3cd37eff3e64fbf966
