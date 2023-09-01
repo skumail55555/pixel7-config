@@ -1,8 +1,8 @@
 ci_id: SW-002
 name: Security patch level
 variant: all
-version: '2023-08-05'
-build_id: TQ3A.230805.001
+version: '2023-09-01'
+build_id: TQ3A.230901.001
 cr: ECR-6
 source_type: real
-source_url: https://source.android.com/docs/setup/reference/build-numbers
+source_url: https://source.android.com/docs/security/bulletin/pixel/2023-09-01

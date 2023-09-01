@@ -2,86 +2,86 @@ device: Google Pixel 7 (panther)
 source_type: real
 variants:
   GVU6C-US-128:
-    build_id: TQ3A.230805.001
+    build_id: TQ3A.230901.001
     android_version: 13.0.0
-    security_patch_level: '2023-08-05'
+    security_patch_level: '2023-09-01'
     bootloader: cloudripper-1.0-9894666
     radio: g5300g-230323-230525-b-10200345
     cr: ECR-6
   GVU6C-US-256:
-    build_id: TQ3A.230805.001
+    build_id: TQ3A.230901.001
     android_version: 13.0.0
-    security_patch_level: '2023-08-05'
+    security_patch_level: '2023-09-01'
     bootloader: cloudripper-1.0-9894666
     radio: g5300g-230323-230525-b-10200345
     cr: ECR-6
   GVU6C-CA-128:
-    build_id: TQ3A.230805.001
+    build_id: TQ3A.230901.001
     android_version: 13.0.0
-    security_patch_level: '2023-08-05'
+    security_patch_level: '2023-09-01'
     bootloader: cloudripper-1.0-9894666
     radio: g5300g-230323-230525-b-10200345
     cr: ECR-6
   GVU6C-CA-256:
-    build_id: TQ3A.230805.001
+    build_id: TQ3A.230901.001
     android_version: 13.0.0
-    security_patch_level: '2023-08-05'
+    security_patch_level: '2023-09-01'
     bootloader: cloudripper-1.0-9894666
     radio: g5300g-230323-230525-b-10200345
     cr: ECR-6
   GVU6C-EU-128:
-    build_id: TQ3A.230805.001
+    build_id: TQ3A.230901.001
     android_version: 13.0.0
-    security_patch_level: '2023-08-05'
+    security_patch_level: '2023-09-01'
     bootloader: cloudripper-1.0-9894666
     radio: g5300g-230323-230525-b-10200345
     cr: ECR-6
   GVU6C-EU-256:
-    build_id: TQ3A.230805.001
+    build_id: TQ3A.230901.001
     android_version: 13.0.0
-    security_patch_level: '2023-08-05'
+    security_patch_level: '2023-09-01'
     bootloader: cloudripper-1.0-9894666
     radio: g5300g-230323-230525-b-10200345
     cr: ECR-6
   GQML3-US-128:
-    build_id: TQ3A.230805.001
+    build_id: TQ3A.230901.001
     android_version: 13.0.0
-    security_patch_level: '2023-08-05'
+    security_patch_level: '2023-09-01'
     bootloader: cloudripper-1.0-9894666
     radio: g5300g-230323-230525-b-10200345
     cr: ECR-6
   GQML3-US-256:
-    build_id: TQ3A.230805.001
+    build_id: TQ3A.230901.001
     android_version: 13.0.0
-    security_patch_level: '2023-08-05'
+    security_patch_level: '2023-09-01'
     bootloader: cloudripper-1.0-9894666
     radio: g5300g-230323-230525-b-10200345
     cr: ECR-6
   GQML3-EU-128:
-    build_id: TQ3A.230805.001
+    build_id: TQ3A.230901.001
     android_version: 13.0.0
-    security_patch_level: '2023-08-05'
+    security_patch_level: '2023-09-01'
     bootloader: cloudripper-1.0-9894666
     radio: g5300g-230323-230525-b-10200345
     cr: ECR-6
   GQML3-EU-256:
-    build_id: TQ3A.230805.001
+    build_id: TQ3A.230901.001
     android_version: 13.0.0
-    security_patch_level: '2023-08-05'
+    security_patch_level: '2023-09-01'
     bootloader: cloudripper-1.0-9894666
     radio: g5300g-230323-230525-b-10200345
     cr: ECR-6
   G03Z5-JP-128:
-    build_id: TQ3A.230805.001
+    build_id: TQ3A.230901.001
     android_version: 13.0.0
-    security_patch_level: '2023-08-05'
+    security_patch_level: '2023-09-01'
     bootloader: cloudripper-1.0-9894666
     radio: g5300g-230323-230525-b-10200345
     cr: ECR-6
   G03Z5-JP-256:
-    build_id: TQ3A.230805.001
+    build_id: TQ3A.230901.001
     android_version: 13.0.0
-    security_patch_level: '2023-08-05'
+    security_patch_level: '2023-09-01'
     bootloader: cloudripper-1.0-9894666
     radio: g5300g-230323-230525-b-10200345
     cr: ECR-6
