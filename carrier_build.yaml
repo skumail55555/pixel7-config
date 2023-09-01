@@ -1,0 +1,14 @@
+build_id: TQ3A.230901.001.C2
+carrier: Verizon, Verizon MVNOs
+android_version: 13.0.0
+release_month: 2023-09
+Android OS build: TQ3A.230901.001.C2
+Bootloader: cloudripper-1.0-9894666
+Radio (modem) firmware: g5300g-230323-230525-b-10205083
+Security patch level: '2023-09-01'
+Device config device/google/pantah: 3504fb816385
+SoC config device/google/gs201: 4927a4740adc
+Common config device/google/gs-common: 85e4450447b7
+deployed_to_variants: []
+source_type: real
+source_url: https://developers.google.com/android/images#panthertq3a.230901.001.c2
