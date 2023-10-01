@@ -6,3 +6,12 @@ build_id: UP1A.231005.007
 cr: ECR-11
 source_type: real
 source_url: https://android.googlesource.com/device/google/pantah/+/5f4ceca888be482ca437d30323645607f578c578
+overrides:
+- variant: G03Z5-JP-128
+  version: b33305dbff97
+  build_id: UP1A.231005.007.A1
+  cr: ECR-10
+- variant: G03Z5-JP-256
+  version: b33305dbff97
+  build_id: UP1A.231005.007.A1
+  cr: ECR-10
