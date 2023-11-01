@@ -72,16 +72,16 @@ variants:
     radio: g5300q-230626-230818-b-10679446
     cr: ECR-6
   G03Z5-JP-128:
-    build_id: UP1A.231105.003
+    build_id: UP1A.231105.003.A1
     android_version: 14.0.0
     security_patch_level: '2023-11-01'
     bootloader: cloudripper-14.0-10529422
-    radio: g5300q-230626-230818-b-10679446
-    cr: ECR-6
+    radio: g5300q-230626-230904-b-10758613
+    cr: ECR-12
   G03Z5-JP-256:
-    build_id: UP1A.231105.003
+    build_id: UP1A.231105.003.A1
     android_version: 14.0.0
     security_patch_level: '2023-11-01'
     bootloader: cloudripper-14.0-10529422
-    radio: g5300q-230626-230818-b-10679446
-    cr: ECR-6
+    radio: g5300q-230626-230904-b-10758613
+    cr: ECR-12

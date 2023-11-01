@@ -6,3 +6,12 @@ build_id: UP1A.231105.003
 cr: ECR-6
 source_type: real
 source_url: https://developers.google.com/android/images#pantherup1a.231105.003
+overrides:
+- variant: G03Z5-JP-128
+  version: UP1A.231105.003.A1
+  build_id: UP1A.231105.003.A1
+  cr: ECR-12
+- variant: G03Z5-JP-256
+  version: UP1A.231105.003.A1
+  build_id: UP1A.231105.003.A1
+  cr: ECR-12

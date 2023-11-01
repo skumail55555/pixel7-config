@@ -6,3 +6,12 @@ build_id: UP1A.231105.003
 cr: ECR-11
 source_type: real
 source_url: https://dl.google.com/dl/android/aosp/panther-up1a.231005.007-factory-09c6d453.zip
+overrides:
+- variant: G03Z5-JP-128
+  version: g5300q-230626-230904-b-10758613
+  build_id: UP1A.231105.003.A1
+  cr: ECR-12
+- variant: G03Z5-JP-256
+  version: g5300q-230626-230904-b-10758613
+  build_id: UP1A.231105.003.A1
+  cr: ECR-12
