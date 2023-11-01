@@ -2,7 +2,7 @@ ci_id: FW-001
 name: Bootloader
 variant: all
 version: cloudripper-14.0-10529422
-build_id: UP1A.231005.007
+build_id: UP1A.231105.003
 cr: ECR-11
 source_type: real
 source_url: https://dl.google.com/dl/android/aosp/panther-up1a.231005.007-factory-09c6d453.zip

@@ -2,86 +2,86 @@ device: Google Pixel 7 (panther)
 source_type: real
 variants:
   GVU6C-US-128:
-    build_id: UP1A.231005.007
+    build_id: UP1A.231105.003
     android_version: 14.0.0
-    security_patch_level: '2023-10-05'
+    security_patch_level: '2023-11-01'
     bootloader: cloudripper-14.0-10529422
     radio: g5300q-230626-230818-b-10679446
-    cr: ECR-11
+    cr: ECR-6
   GVU6C-US-256:
-    build_id: UP1A.231005.007
+    build_id: UP1A.231105.003
     android_version: 14.0.0
-    security_patch_level: '2023-10-05'
+    security_patch_level: '2023-11-01'
     bootloader: cloudripper-14.0-10529422
     radio: g5300q-230626-230818-b-10679446
-    cr: ECR-11
+    cr: ECR-6
   GVU6C-CA-128:
-    build_id: UP1A.231005.007
+    build_id: UP1A.231105.003
     android_version: 14.0.0
-    security_patch_level: '2023-10-05'
+    security_patch_level: '2023-11-01'
     bootloader: cloudripper-14.0-10529422
     radio: g5300q-230626-230818-b-10679446
-    cr: ECR-11
+    cr: ECR-6
   GVU6C-CA-256:
-    build_id: UP1A.231005.007
+    build_id: UP1A.231105.003
     android_version: 14.0.0
-    security_patch_level: '2023-10-05'
+    security_patch_level: '2023-11-01'
     bootloader: cloudripper-14.0-10529422
     radio: g5300q-230626-230818-b-10679446
-    cr: ECR-11
+    cr: ECR-6
   GVU6C-EU-128:
-    build_id: UP1A.231005.007
+    build_id: UP1A.231105.003
     android_version: 14.0.0
-    security_patch_level: '2023-10-05'
+    security_patch_level: '2023-11-01'
     bootloader: cloudripper-14.0-10529422
     radio: g5300q-230626-230818-b-10679446
-    cr: ECR-11
+    cr: ECR-6
   GVU6C-EU-256:
-    build_id: UP1A.231005.007
+    build_id: UP1A.231105.003
     android_version: 14.0.0
-    security_patch_level: '2023-10-05'
+    security_patch_level: '2023-11-01'
     bootloader: cloudripper-14.0-10529422
     radio: g5300q-230626-230818-b-10679446
-    cr: ECR-11
+    cr: ECR-6
   GQML3-US-128:
-    build_id: UP1A.231005.007
+    build_id: UP1A.231105.003
     android_version: 14.0.0
-    security_patch_level: '2023-10-05'
+    security_patch_level: '2023-11-01'
     bootloader: cloudripper-14.0-10529422
     radio: g5300q-230626-230818-b-10679446
-    cr: ECR-11
+    cr: ECR-6
   GQML3-US-256:
-    build_id: UP1A.231005.007
+    build_id: UP1A.231105.003
     android_version: 14.0.0
-    security_patch_level: '2023-10-05'
+    security_patch_level: '2023-11-01'
     bootloader: cloudripper-14.0-10529422
     radio: g5300q-230626-230818-b-10679446
-    cr: ECR-11
+    cr: ECR-6
   GQML3-EU-128:
-    build_id: UP1A.231005.007
+    build_id: UP1A.231105.003
     android_version: 14.0.0
-    security_patch_level: '2023-10-05'
+    security_patch_level: '2023-11-01'
     bootloader: cloudripper-14.0-10529422
     radio: g5300q-230626-230818-b-10679446
-    cr: ECR-11
+    cr: ECR-6
   GQML3-EU-256:
-    build_id: UP1A.231005.007
+    build_id: UP1A.231105.003
     android_version: 14.0.0
-    security_patch_level: '2023-10-05'
+    security_patch_level: '2023-11-01'
     bootloader: cloudripper-14.0-10529422
     radio: g5300q-230626-230818-b-10679446
-    cr: ECR-11
+    cr: ECR-6
   G03Z5-JP-128:
-    build_id: UP1A.231005.007.A1
+    build_id: UP1A.231105.003
     android_version: 14.0.0
-    security_patch_level: '2023-10-05'
+    security_patch_level: '2023-11-01'
     bootloader: cloudripper-14.0-10529422
-    radio: g5300q-230626-230904-b-10758613
-    cr: ECR-10
+    radio: g5300q-230626-230818-b-10679446
+    cr: ECR-6
   G03Z5-JP-256:
-    build_id: UP1A.231005.007.A1
+    build_id: UP1A.231105.003
     android_version: 14.0.0
-    security_patch_level: '2023-10-05'
+    security_patch_level: '2023-11-01'
     bootloader: cloudripper-14.0-10529422
-    radio: g5300q-230626-230904-b-10758613
-    cr: ECR-10
+    radio: g5300q-230626-230818-b-10679446
+    cr: ECR-6

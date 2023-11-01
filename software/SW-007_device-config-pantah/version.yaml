@@ -1,17 +1,8 @@
 ci_id: SW-007
 name: Device config device/google/pantah
 variant: all
-version: 5f4ceca888be
-build_id: UP1A.231005.007
-cr: ECR-11
+version: 4fff7362fba6
+build_id: UP1A.231105.003
+cr: ECR-6
 source_type: real
-source_url: https://android.googlesource.com/device/google/pantah/+/5f4ceca888be482ca437d30323645607f578c578
-overrides:
-- variant: G03Z5-JP-128
-  version: b33305dbff97
-  build_id: UP1A.231005.007.A1
-  cr: ECR-10
-- variant: G03Z5-JP-256
-  version: b33305dbff97
-  build_id: UP1A.231005.007.A1
-  cr: ECR-10
+source_url: https://android.googlesource.com/device/google/pantah/+/4fff7362fba66177abfb287de3c8b832a9dd01a8
