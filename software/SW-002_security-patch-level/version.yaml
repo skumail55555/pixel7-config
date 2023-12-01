@@ -1,8 +1,8 @@
 ci_id: SW-002
 name: Security patch level
 variant: all
-version: '2023-11-01'
-build_id: UP1A.231105.003
-cr: ECR-6
+version: '2023-12-05'
+build_id: UQ1A.231205.015
+cr: ECR-13
 source_type: real
 source_url: https://source.android.com/docs/setup/reference/build-numbers

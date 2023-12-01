@@ -1,17 +1,8 @@
 ci_id: SW-001
 name: Android OS build
 variant: all
-version: UP1A.231105.003
-build_id: UP1A.231105.003
-cr: ECR-6
+version: UQ1A.231205.015
+build_id: UQ1A.231205.015
+cr: ECR-13
 source_type: real
-source_url: https://developers.google.com/android/images#pantherup1a.231105.003
-overrides:
-- variant: G03Z5-JP-128
-  version: UP1A.231105.003.A1
-  build_id: UP1A.231105.003.A1
-  cr: ECR-12
-- variant: G03Z5-JP-256
-  version: UP1A.231105.003.A1
-  build_id: UP1A.231105.003.A1
-  cr: ECR-12
+source_url: https://developers.google.com/android/images#pantheruq1a.231205.015
