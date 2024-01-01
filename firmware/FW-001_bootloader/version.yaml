@@ -2,7 +2,7 @@ ci_id: FW-001
 name: Bootloader
 variant: all
 version: cloudripper-14.0-10825040
-build_id: UQ1A.231205.015
+build_id: UQ1A.240105.004
 cr: ECR-13
 source_type: real
 source_url: https://dl.google.com/dl/android/aosp/panther-uq1a.231205.015-factory-9bc852a1.zip
