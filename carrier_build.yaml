@@ -1,0 +1,14 @@
+build_id: UQ1A.240205.002.B1
+carrier: Softbank
+android_version: 14.0.0
+release_month: 2024-02
+Android OS build: UQ1A.240205.002.B1
+Bootloader: cloudripper-14.0-11170085
+Radio (modem) firmware: g5300q-230927-231102-b-11040898
+Security patch level: '2024-02-05'
+Device config device/google/pantah: ac84485d18bd
+SoC config device/google/gs201: f2b4bb7bef7c
+Common config device/google/gs-common: 1ae1ccbfd25d
+deployed_to_variants: []
+source_type: real
+source_url: https://developers.google.com/android/images#pantheruq1a.240205.002.b1
