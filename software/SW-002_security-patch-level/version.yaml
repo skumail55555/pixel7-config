@@ -1,8 +1,8 @@
 ci_id: SW-002
 name: Security patch level
 variant: all
-version: '2024-01-05'
-build_id: UQ1A.240105.004
-cr: ECR-14
+version: '2024-02-05'
+build_id: UQ1A.240205.002
+cr: ECR-15
 source_type: real
 source_url: https://source.android.com/docs/setup/reference/build-numbers
