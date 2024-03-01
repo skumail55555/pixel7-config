@@ -1,8 +1,8 @@
 ci_id: SW-001
 name: Android OS build
 variant: all
-version: UQ1A.240205.002
-build_id: UQ1A.240205.002
-cr: ECR-15
+version: AP1A.240305.019.A1
+build_id: AP1A.240305.019.A1
+cr: ECR-16
 source_type: real
-source_url: https://developers.google.com/android/images#pantheruq1a.240205.002
+source_url: https://developers.google.com/android/images#pantherap1a.240305.019.a1

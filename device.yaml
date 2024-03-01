@@ -2,86 +2,86 @@ device: Google Pixel 7 (panther)
 source_type: real
 variants:
   GVU6C-US-128:
-    build_id: UQ1A.240205.002
+    build_id: AP1A.240305.019.A1
     android_version: 14.0.0
-    security_patch_level: '2024-02-05'
-    bootloader: cloudripper-14.0-11170085
-    radio: g5300q-230927-231102-b-11040898
-    cr: ECR-15
+    security_patch_level: '2024-03-05'
+    bootloader: cloudripper-14.4-11290827
+    radio: g5300q-231218-240202-b-11396366
+    cr: ECR-16
   GVU6C-US-256:
-    build_id: UQ1A.240205.002
+    build_id: AP1A.240305.019.A1
     android_version: 14.0.0
-    security_patch_level: '2024-02-05'
-    bootloader: cloudripper-14.0-11170085
-    radio: g5300q-230927-231102-b-11040898
-    cr: ECR-15
+    security_patch_level: '2024-03-05'
+    bootloader: cloudripper-14.4-11290827
+    radio: g5300q-231218-240202-b-11396366
+    cr: ECR-16
   GVU6C-CA-128:
-    build_id: UQ1A.240205.002
+    build_id: AP1A.240305.019.A1
     android_version: 14.0.0
-    security_patch_level: '2024-02-05'
-    bootloader: cloudripper-14.0-11170085
-    radio: g5300q-230927-231102-b-11040898
-    cr: ECR-15
+    security_patch_level: '2024-03-05'
+    bootloader: cloudripper-14.4-11290827
+    radio: g5300q-231218-240202-b-11396366
+    cr: ECR-16
   GVU6C-CA-256:
-    build_id: UQ1A.240205.002
+    build_id: AP1A.240305.019.A1
     android_version: 14.0.0
-    security_patch_level: '2024-02-05'
-    bootloader: cloudripper-14.0-11170085
-    radio: g5300q-230927-231102-b-11040898
-    cr: ECR-15
+    security_patch_level: '2024-03-05'
+    bootloader: cloudripper-14.4-11290827
+    radio: g5300q-231218-240202-b-11396366
+    cr: ECR-16
   GVU6C-EU-128:
-    build_id: UQ1A.240205.002
+    build_id: AP1A.240305.019.A1
     android_version: 14.0.0
-    security_patch_level: '2024-02-05'
-    bootloader: cloudripper-14.0-11170085
-    radio: g5300q-230927-231102-b-11040898
-    cr: ECR-15
+    security_patch_level: '2024-03-05'
+    bootloader: cloudripper-14.4-11290827
+    radio: g5300q-231218-240202-b-11396366
+    cr: ECR-16
   GVU6C-EU-256:
-    build_id: UQ1A.240205.002
+    build_id: AP1A.240305.019.A1
     android_version: 14.0.0
-    security_patch_level: '2024-02-05'
-    bootloader: cloudripper-14.0-11170085
-    radio: g5300q-230927-231102-b-11040898
-    cr: ECR-15
+    security_patch_level: '2024-03-05'
+    bootloader: cloudripper-14.4-11290827
+    radio: g5300q-231218-240202-b-11396366
+    cr: ECR-16
   GQML3-US-128:
-    build_id: UQ1A.240205.002
+    build_id: AP1A.240305.019.A1
     android_version: 14.0.0
-    security_patch_level: '2024-02-05'
-    bootloader: cloudripper-14.0-11170085
-    radio: g5300q-230927-231102-b-11040898
-    cr: ECR-15
+    security_patch_level: '2024-03-05'
+    bootloader: cloudripper-14.4-11290827
+    radio: g5300q-231218-240202-b-11396366
+    cr: ECR-16
   GQML3-US-256:
-    build_id: UQ1A.240205.002
+    build_id: AP1A.240305.019.A1
     android_version: 14.0.0
-    security_patch_level: '2024-02-05'
-    bootloader: cloudripper-14.0-11170085
-    radio: g5300q-230927-231102-b-11040898
-    cr: ECR-15
+    security_patch_level: '2024-03-05'
+    bootloader: cloudripper-14.4-11290827
+    radio: g5300q-231218-240202-b-11396366
+    cr: ECR-16
   GQML3-EU-128:
-    build_id: UQ1A.240205.002
+    build_id: AP1A.240305.019.A1
     android_version: 14.0.0
-    security_patch_level: '2024-02-05'
-    bootloader: cloudripper-14.0-11170085
-    radio: g5300q-230927-231102-b-11040898
-    cr: ECR-15
+    security_patch_level: '2024-03-05'
+    bootloader: cloudripper-14.4-11290827
+    radio: g5300q-231218-240202-b-11396366
+    cr: ECR-16
   GQML3-EU-256:
-    build_id: UQ1A.240205.002
+    build_id: AP1A.240305.019.A1
     android_version: 14.0.0
-    security_patch_level: '2024-02-05'
-    bootloader: cloudripper-14.0-11170085
-    radio: g5300q-230927-231102-b-11040898
-    cr: ECR-15
+    security_patch_level: '2024-03-05'
+    bootloader: cloudripper-14.4-11290827
+    radio: g5300q-231218-240202-b-11396366
+    cr: ECR-16
   G03Z5-JP-128:
-    build_id: UQ1A.240205.002
+    build_id: AP1A.240305.019.A1
     android_version: 14.0.0
-    security_patch_level: '2024-02-05'
-    bootloader: cloudripper-14.0-11170085
-    radio: g5300q-230927-231102-b-11040898
-    cr: ECR-15
+    security_patch_level: '2024-03-05'
+    bootloader: cloudripper-14.4-11290827
+    radio: g5300q-231218-240202-b-11396366
+    cr: ECR-16
   G03Z5-JP-256:
-    build_id: UQ1A.240205.002
+    build_id: AP1A.240305.019.A1
     android_version: 14.0.0
-    security_patch_level: '2024-02-05'
-    bootloader: cloudripper-14.0-11170085
-    radio: g5300q-230927-231102-b-11040898
-    cr: ECR-15
+    security_patch_level: '2024-03-05'
+    bootloader: cloudripper-14.4-11290827
+    radio: g5300q-231218-240202-b-11396366
+    cr: ECR-16

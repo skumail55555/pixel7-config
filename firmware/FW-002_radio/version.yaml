@@ -1,8 +1,8 @@
 ci_id: FW-002
 name: Radio (modem) firmware
 variant: all
-version: g5300q-230927-231102-b-11040898
-build_id: UQ1A.240205.002
-cr: ECR-13
+version: g5300q-231218-240202-b-11396366
+build_id: AP1A.240305.019.A1
+cr: ECR-16
 source_type: real
-source_url: https://dl.google.com/dl/android/aosp/panther-uq1a.231205.015-factory-9bc852a1.zip
+source_url: https://dl.google.com/dl/android/aosp/panther-ap1a.240305.019.a1-factory-ae1ddec4.zip
