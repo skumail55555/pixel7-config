@@ -1,8 +1,8 @@
 ci_id: SW-007
 name: Device config device/google/pantah
 variant: all
-version: bde703cfa4c4
-build_id: AP1A.240505.004
-cr: ECR-19
+version: ddef85dd32dc
+build_id: AP1A.240505.005
+cr: ECR-20
 source_type: real
-source_url: https://android.googlesource.com/device/google/pantah/+/bde703cfa4c492e34f4c92ad01739db5da076d34
+source_url: https://android.googlesource.com/device/google/pantah/+/ddef85dd32dcd8ff0277e9f2c114b69024d9c5d0
