@@ -2,7 +2,7 @@ ci_id: FW-002
 name: Radio (modem) firmware
 variant: all
 version: g5300q-240308-240517-b-11857457
-build_id: AP2A.240605.024
+build_id: AP2A.240705.004
 cr: ECR-21
 source_type: real
 source_url: https://dl.google.com/dl/android/aosp/panther-ap2a.240605.024-factory-17c9b82b.zip
