@@ -2,86 +2,86 @@ device: Google Pixel 7 (panther)
 source_type: real
 variants:
   GVU6C-US-128:
-    build_id: AP2A.240705.004
+    build_id: AP2A.240805.005
     android_version: 14.0.0
-    security_patch_level: '2024-07-05'
+    security_patch_level: '2024-08-05'
     bootloader: cloudripper-14.5-11677884
     radio: g5300q-240308-240517-b-11857457
     cr: ECR-14
   GVU6C-US-256:
-    build_id: AP2A.240705.004
+    build_id: AP2A.240805.005
     android_version: 14.0.0
-    security_patch_level: '2024-07-05'
+    security_patch_level: '2024-08-05'
     bootloader: cloudripper-14.5-11677884
     radio: g5300q-240308-240517-b-11857457
     cr: ECR-14
   GVU6C-CA-128:
-    build_id: AP2A.240705.004
+    build_id: AP2A.240805.005
     android_version: 14.0.0
-    security_patch_level: '2024-07-05'
+    security_patch_level: '2024-08-05'
     bootloader: cloudripper-14.5-11677884
     radio: g5300q-240308-240517-b-11857457
     cr: ECR-14
   GVU6C-CA-256:
-    build_id: AP2A.240705.004
+    build_id: AP2A.240805.005
     android_version: 14.0.0
-    security_patch_level: '2024-07-05'
+    security_patch_level: '2024-08-05'
     bootloader: cloudripper-14.5-11677884
     radio: g5300q-240308-240517-b-11857457
     cr: ECR-14
   GVU6C-EU-128:
-    build_id: AP2A.240705.004
+    build_id: AP2A.240805.005
     android_version: 14.0.0
-    security_patch_level: '2024-07-05'
+    security_patch_level: '2024-08-05'
     bootloader: cloudripper-14.5-11677884
     radio: g5300q-240308-240517-b-11857457
     cr: ECR-14
   GVU6C-EU-256:
-    build_id: AP2A.240705.004
+    build_id: AP2A.240805.005
     android_version: 14.0.0
-    security_patch_level: '2024-07-05'
+    security_patch_level: '2024-08-05'
     bootloader: cloudripper-14.5-11677884
     radio: g5300q-240308-240517-b-11857457
     cr: ECR-14
   GQML3-US-128:
-    build_id: AP2A.240705.004
+    build_id: AP2A.240805.005
     android_version: 14.0.0
-    security_patch_level: '2024-07-05'
+    security_patch_level: '2024-08-05'
     bootloader: cloudripper-14.5-11677884
     radio: g5300q-240308-240517-b-11857457
     cr: ECR-14
   GQML3-US-256:
-    build_id: AP2A.240705.004
+    build_id: AP2A.240805.005
     android_version: 14.0.0
-    security_patch_level: '2024-07-05'
+    security_patch_level: '2024-08-05'
     bootloader: cloudripper-14.5-11677884
     radio: g5300q-240308-240517-b-11857457
     cr: ECR-14
   GQML3-EU-128:
-    build_id: AP2A.240705.004
+    build_id: AP2A.240805.005
     android_version: 14.0.0
-    security_patch_level: '2024-07-05'
+    security_patch_level: '2024-08-05'
     bootloader: cloudripper-14.5-11677884
     radio: g5300q-240308-240517-b-11857457
     cr: ECR-14
   GQML3-EU-256:
-    build_id: AP2A.240705.004
+    build_id: AP2A.240805.005
     android_version: 14.0.0
-    security_patch_level: '2024-07-05'
+    security_patch_level: '2024-08-05'
     bootloader: cloudripper-14.5-11677884
     radio: g5300q-240308-240517-b-11857457
     cr: ECR-14
   G03Z5-JP-128:
-    build_id: AP2A.240705.004
+    build_id: AP2A.240805.005
     android_version: 14.0.0
-    security_patch_level: '2024-07-05'
+    security_patch_level: '2024-08-05'
     bootloader: cloudripper-14.5-11677884
     radio: g5300q-240308-240517-b-11857457
     cr: ECR-14
   G03Z5-JP-256:
-    build_id: AP2A.240705.004
+    build_id: AP2A.240805.005
     android_version: 14.0.0
-    security_patch_level: '2024-07-05'
+    security_patch_level: '2024-08-05'
     bootloader: cloudripper-14.5-11677884
     radio: g5300q-240308-240517-b-11857457
     cr: ECR-14

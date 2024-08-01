@@ -1,8 +1,8 @@
 ci_id: SW-002
 name: Security patch level
 variant: all
-version: '2024-07-05'
-build_id: AP2A.240705.004
+version: '2024-08-05'
+build_id: AP2A.240805.005
 cr: ECR-14
 source_type: real
 source_url: https://source.android.com/docs/setup/reference/build-numbers
