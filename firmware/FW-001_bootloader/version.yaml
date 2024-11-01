@@ -2,7 +2,7 @@ ci_id: FW-001
 name: Bootloader
 variant: all
 version: cloudripper-15.0-11969070
-build_id: AP3A.241005.015
+build_id: AP3A.241105.007
 cr: ECR-23
 source_type: real
 source_url: https://dl.google.com/dl/android/aosp/panther-ap3a.241005.015-factory-0418766c.zip
