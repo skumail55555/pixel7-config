@@ -1,0 +1,14 @@
+build_id: AP4A.241205.013.C1
+carrier: T-Mobile
+android_version: 15.0.0
+release_month: 2024-12
+Android OS build: AP4A.241205.013.C1
+Bootloader: cloudripper-15.1-12292122
+Radio (modem) firmware: g5300q-240919-241106-b-12612898
+Security patch level: '2024-12-05'
+Device config device/google/pantah: 82c2515958c1
+SoC config device/google/gs201: 9003dabf9780
+Common config device/google/gs-common: 58891f2f0fe8
+deployed_to_variants: []
+source_type: real
+source_url: https://developers.google.com/android/images#pantherap4a.241205.013.c1
