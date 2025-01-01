@@ -1,0 +1,14 @@
+build_id: AP4A.250105.002.B1
+carrier: Telstra
+android_version: 15.0.0
+release_month: 2025-01
+Android OS build: AP4A.250105.002.B1
+Bootloader: cloudripper-15.1-12292122
+Radio (modem) firmware: g5300q-240919-241111-b-12634296
+Security patch level: '2025-01-05'
+Device config device/google/pantah: 82c2515958c1
+SoC config device/google/gs201: 9003dabf9780
+Common config device/google/gs-common: 58891f2f0fe8
+deployed_to_variants: []
+source_type: real
+source_url: https://developers.google.com/android/images#pantherap4a.250105.002.b1
