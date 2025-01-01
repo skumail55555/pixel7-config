@@ -2,7 +2,7 @@ ci_id: SW-008
 name: SoC config device/google/gs201
 variant: all
 version: 9003dabf9780
-build_id: AP4A.241205.013
+build_id: AP4A.250105.002
 cr: ECR-24
 source_type: real
 source_url: https://android.googlesource.com/device/google/gs201/+/9003dabf978019cbdd8bfa617c78fc79977a1b95

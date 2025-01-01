@@ -2,7 +2,7 @@ ci_id: SW-009
 name: Common config device/google/gs-common
 variant: all
 version: 58891f2f0fe8
-build_id: AP4A.241205.013
+build_id: AP4A.250105.002
 cr: ECR-24
 source_type: real
 source_url: https://android.googlesource.com/device/google/gs-common/+/58891f2f0fe8b31f44505fe3d093b8b25d5904ae
