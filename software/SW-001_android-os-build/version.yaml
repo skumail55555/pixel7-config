@@ -1,8 +1,8 @@
 ci_id: SW-001
 name: Android OS build
 variant: all
-version: AP4A.250105.002
-build_id: AP4A.250105.002
+version: AP4A.250205.002
+build_id: AP4A.250205.002
 cr: ECR-25
 source_type: real
-source_url: https://developers.google.com/android/images#pantherap4a.250105.002
+source_url: https://developers.google.com/android/images#pantherap4a.250205.002
