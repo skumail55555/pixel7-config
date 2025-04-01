@@ -1,8 +1,8 @@
 ci_id: FW-001
 name: Bootloader
 variant: all
-version: cloudripper-15.2-12878710
-build_id: BP1A.250305.019
-cr: ECR-26
+version: cloudripper-15.2-13237001
+build_id: BP1A.250405.007.B1
+cr: ECR-27
 source_type: real
-source_url: https://dl.google.com/dl/android/aosp/panther-bp1a.250305.019-factory-3cc92367.zip
+source_url: https://dl.google.com/dl/android/aosp/panther-bp1a.250405.007.b1-factory-ec427907.zip

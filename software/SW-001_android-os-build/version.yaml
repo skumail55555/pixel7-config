@@ -1,8 +1,8 @@
 ci_id: SW-001
 name: Android OS build
 variant: all
-version: BP1A.250305.019
-build_id: BP1A.250305.019
-cr: ECR-26
+version: BP1A.250405.007.B1
+build_id: BP1A.250405.007.B1
+cr: ECR-27
 source_type: real
-source_url: https://developers.google.com/android/images#pantherbp1a.250305.019
+source_url: https://developers.google.com/android/images#pantherbp1a.250405.007.b1

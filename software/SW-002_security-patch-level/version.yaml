@@ -1,8 +1,8 @@
 ci_id: SW-002
 name: Security patch level
 variant: all
-version: '2025-03-05'
-build_id: BP1A.250305.019
-cr: ECR-26
+version: '2025-04-05'
+build_id: BP1A.250405.007.B1
+cr: ECR-27
 source_type: real
 source_url: https://source.android.com/docs/setup/reference/build-numbers
