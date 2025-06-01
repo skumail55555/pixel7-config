@@ -1,8 +1,8 @@
 ci_id: SW-002
 name: Security patch level
 variant: all
-version: '2025-05-05'
-build_id: BP1A.250505.005.B1
-cr: ECR-25
+version: '2025-06-05'
+build_id: BP2A.250605.031.A2
+cr: ECR-28
 source_type: real
-source_url: https://source.android.com/docs/setup/reference/build-numbers
+source_url: https://source.android.com/docs/security/bulletin/pixel/2025-06-01
