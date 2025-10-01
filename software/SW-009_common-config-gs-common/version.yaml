@@ -2,7 +2,7 @@ ci_id: SW-009
 name: Common config device/google/gs-common
 variant: all
 version: c16a33405287
-build_id: BP3A.251005.004.B1
+build_id: BP3A.251005.004.B2
 cr: ECR-26
 source_type: real
 source_url: https://android.googlesource.com/device/google/gs-common/+/c16a3340528704236170969eb8ad7cd4ede12340
