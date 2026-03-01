@@ -2,86 +2,86 @@ device: Google Pixel 7 (panther)
 source_type: real
 variants:
   GVU6C-US-128:
-    build_id: BP4A.251205.006
+    build_id: CP1A.260305.018
     android_version: 16.0.0
-    security_patch_level: '2025-12-05'
-    bootloader: cloudripper-16.4-14097579
-    radio: g5300q-250909-251024-b-14326967
-    cr: ECR-31
+    security_patch_level: '2026-03-05'
+    bootloader: cloudripper-16.4-14540572
+    radio: g5300q-251202-260127-b-14784800
+    cr: ECR-32
   GVU6C-US-256:
-    build_id: BP4A.251205.006
+    build_id: CP1A.260305.018
     android_version: 16.0.0
-    security_patch_level: '2025-12-05'
-    bootloader: cloudripper-16.4-14097579
-    radio: g5300q-250909-251024-b-14326967
-    cr: ECR-31
+    security_patch_level: '2026-03-05'
+    bootloader: cloudripper-16.4-14540572
+    radio: g5300q-251202-260127-b-14784800
+    cr: ECR-32
   GVU6C-CA-128:
-    build_id: BP4A.251205.006
+    build_id: CP1A.260305.018
     android_version: 16.0.0
-    security_patch_level: '2025-12-05'
-    bootloader: cloudripper-16.4-14097579
-    radio: g5300q-250909-251024-b-14326967
-    cr: ECR-31
+    security_patch_level: '2026-03-05'
+    bootloader: cloudripper-16.4-14540572
+    radio: g5300q-251202-260127-b-14784800
+    cr: ECR-32
   GVU6C-CA-256:
-    build_id: BP4A.251205.006
+    build_id: CP1A.260305.018
     android_version: 16.0.0
-    security_patch_level: '2025-12-05'
-    bootloader: cloudripper-16.4-14097579
-    radio: g5300q-250909-251024-b-14326967
-    cr: ECR-31
+    security_patch_level: '2026-03-05'
+    bootloader: cloudripper-16.4-14540572
+    radio: g5300q-251202-260127-b-14784800
+    cr: ECR-32
   GVU6C-EU-128:
-    build_id: BP4A.251205.006
+    build_id: CP1A.260305.018
     android_version: 16.0.0
-    security_patch_level: '2025-12-05'
-    bootloader: cloudripper-16.4-14097579
-    radio: g5300q-250909-251024-b-14326967
-    cr: ECR-31
+    security_patch_level: '2026-03-05'
+    bootloader: cloudripper-16.4-14540572
+    radio: g5300q-251202-260127-b-14784800
+    cr: ECR-32
   GVU6C-EU-256:
-    build_id: BP4A.251205.006
+    build_id: CP1A.260305.018
     android_version: 16.0.0
-    security_patch_level: '2025-12-05'
-    bootloader: cloudripper-16.4-14097579
-    radio: g5300q-250909-251024-b-14326967
-    cr: ECR-31
+    security_patch_level: '2026-03-05'
+    bootloader: cloudripper-16.4-14540572
+    radio: g5300q-251202-260127-b-14784800
+    cr: ECR-32
   GQML3-US-128:
-    build_id: BP4A.251205.006
+    build_id: CP1A.260305.018
     android_version: 16.0.0
-    security_patch_level: '2025-12-05'
-    bootloader: cloudripper-16.4-14097579
-    radio: g5300q-250909-251024-b-14326967
-    cr: ECR-31
+    security_patch_level: '2026-03-05'
+    bootloader: cloudripper-16.4-14540572
+    radio: g5300q-251202-260127-b-14784800
+    cr: ECR-32
   GQML3-US-256:
-    build_id: BP4A.251205.006
+    build_id: CP1A.260305.018
     android_version: 16.0.0
-    security_patch_level: '2025-12-05'
-    bootloader: cloudripper-16.4-14097579
-    radio: g5300q-250909-251024-b-14326967
-    cr: ECR-31
+    security_patch_level: '2026-03-05'
+    bootloader: cloudripper-16.4-14540572
+    radio: g5300q-251202-260127-b-14784800
+    cr: ECR-32
   GQML3-EU-128:
-    build_id: BP4A.251205.006
+    build_id: CP1A.260305.018
     android_version: 16.0.0
-    security_patch_level: '2025-12-05'
-    bootloader: cloudripper-16.4-14097579
-    radio: g5300q-250909-251024-b-14326967
-    cr: ECR-31
+    security_patch_level: '2026-03-05'
+    bootloader: cloudripper-16.4-14540572
+    radio: g5300q-251202-260127-b-14784800
+    cr: ECR-32
   GQML3-EU-256:
-    build_id: BP4A.251205.006
+    build_id: CP1A.260305.018
     android_version: 16.0.0
-    security_patch_level: '2025-12-05'
-    bootloader: cloudripper-16.4-14097579
-    radio: g5300q-250909-251024-b-14326967
-    cr: ECR-31
+    security_patch_level: '2026-03-05'
+    bootloader: cloudripper-16.4-14540572
+    radio: g5300q-251202-260127-b-14784800
+    cr: ECR-32
   G03Z5-JP-128:
-    build_id: BP4A.251205.006
+    build_id: CP1A.260305.018
     android_version: 16.0.0
-    security_patch_level: '2025-12-05'
-    bootloader: cloudripper-16.4-14097579
-    radio: g5300q-250909-251024-b-14326967
-    cr: ECR-31
+    security_patch_level: '2026-03-05'
+    bootloader: cloudripper-16.4-14540572
+    radio: g5300q-251202-260127-b-14784800
+    cr: ECR-32
   G03Z5-JP-256:
-    build_id: BP4A.251205.006
+    build_id: CP1A.260305.018
     android_version: 16.0.0
-    security_patch_level: '2025-12-05'
-    bootloader: cloudripper-16.4-14097579
-    radio: g5300q-250909-251024-b-14326967
-    cr: ECR-31
+    security_patch_level: '2026-03-05'
+    bootloader: cloudripper-16.4-14540572
+    radio: g5300q-251202-260127-b-14784800
+    cr: ECR-32
