@@ -1,0 +1,14 @@
+build_id: CP1A.260405.005.B1
+carrier: Telia
+android_version: 16.0.0
+release_month: 2026-04
+Android OS build: CP1A.260405.005.B1
+Bootloader: cloudripper-16.4-14540572
+Radio (modem) firmware: g5300q-251202-260127-b-14784800
+Security patch level: '2026-04-05'
+Device config device/google/pantah: 8e63e01667ce
+SoC config device/google/gs201: f1e845cec854
+Common config device/google/gs-common: c16a33405287
+deployed_to_variants: []
+source_type: real
+source_url: https://developers.google.com/android/images#panthercp1a.260405.005.b1
