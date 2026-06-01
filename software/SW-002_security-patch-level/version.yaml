@@ -1,8 +1,8 @@
 ci_id: SW-002
 name: Security patch level
 variant: all
-version: '2026-04-05'
-build_id: CP1A.260405.005
-cr: ECR-33
+version: '2026-06-05'
+build_id: CP2A.260605.012
+cr: ECR-34
 source_type: real
-source_url: https://source.android.com/docs/security/bulletin/pixel/2026/2026-04-01
+source_url: https://source.android.com/docs/security/bulletin/pixel/2026/2026-06-01
