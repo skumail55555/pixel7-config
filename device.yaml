@@ -2,86 +2,86 @@ device: Google Pixel 7 (panther)
 source_type: real
 variants:
   GVU6C-US-128:
-    build_id: CP2A.260605.012
+    build_id: CP2A.260705.006
     android_version: 17.0.0
-    security_patch_level: '2026-06-05'
+    security_patch_level: '2026-07-05'
     bootloader: cloudripper-17.0-15199429
     radio: g5300q-260317-260505-b-15346003
-    cr: ECR-34
+    cr: ECR-33
   GVU6C-US-256:
-    build_id: CP2A.260605.012
+    build_id: CP2A.260705.006
     android_version: 17.0.0
-    security_patch_level: '2026-06-05'
+    security_patch_level: '2026-07-05'
     bootloader: cloudripper-17.0-15199429
     radio: g5300q-260317-260505-b-15346003
-    cr: ECR-34
+    cr: ECR-33
   GVU6C-CA-128:
-    build_id: CP2A.260605.012
+    build_id: CP2A.260705.006
     android_version: 17.0.0
-    security_patch_level: '2026-06-05'
+    security_patch_level: '2026-07-05'
     bootloader: cloudripper-17.0-15199429
     radio: g5300q-260317-260505-b-15346003
-    cr: ECR-34
+    cr: ECR-33
   GVU6C-CA-256:
-    build_id: CP2A.260605.012
+    build_id: CP2A.260705.006
     android_version: 17.0.0
-    security_patch_level: '2026-06-05'
+    security_patch_level: '2026-07-05'
     bootloader: cloudripper-17.0-15199429
     radio: g5300q-260317-260505-b-15346003
-    cr: ECR-34
+    cr: ECR-33
   GVU6C-EU-128:
-    build_id: CP2A.260605.012
+    build_id: CP2A.260705.006
     android_version: 17.0.0
-    security_patch_level: '2026-06-05'
+    security_patch_level: '2026-07-05'
     bootloader: cloudripper-17.0-15199429
     radio: g5300q-260317-260505-b-15346003
-    cr: ECR-34
+    cr: ECR-33
   GVU6C-EU-256:
-    build_id: CP2A.260605.012
+    build_id: CP2A.260705.006
     android_version: 17.0.0
-    security_patch_level: '2026-06-05'
+    security_patch_level: '2026-07-05'
     bootloader: cloudripper-17.0-15199429
     radio: g5300q-260317-260505-b-15346003
-    cr: ECR-34
+    cr: ECR-33
   GQML3-US-128:
-    build_id: CP2A.260605.012
+    build_id: CP2A.260705.006
     android_version: 17.0.0
-    security_patch_level: '2026-06-05'
+    security_patch_level: '2026-07-05'
     bootloader: cloudripper-17.0-15199429
     radio: g5300q-260317-260505-b-15346003
-    cr: ECR-34
+    cr: ECR-33
   GQML3-US-256:
-    build_id: CP2A.260605.012
+    build_id: CP2A.260705.006
     android_version: 17.0.0
-    security_patch_level: '2026-06-05'
+    security_patch_level: '2026-07-05'
     bootloader: cloudripper-17.0-15199429
     radio: g5300q-260317-260505-b-15346003
-    cr: ECR-34
+    cr: ECR-33
   GQML3-EU-128:
-    build_id: CP2A.260605.012
+    build_id: CP2A.260705.006
     android_version: 17.0.0
-    security_patch_level: '2026-06-05'
+    security_patch_level: '2026-07-05'
     bootloader: cloudripper-17.0-15199429
     radio: g5300q-260317-260505-b-15346003
-    cr: ECR-34
+    cr: ECR-33
   GQML3-EU-256:
-    build_id: CP2A.260605.012
+    build_id: CP2A.260705.006
     android_version: 17.0.0
-    security_patch_level: '2026-06-05'
+    security_patch_level: '2026-07-05'
     bootloader: cloudripper-17.0-15199429
     radio: g5300q-260317-260505-b-15346003
-    cr: ECR-34
+    cr: ECR-33
   G03Z5-JP-128:
-    build_id: CP2A.260605.012
+    build_id: CP2A.260705.006
     android_version: 17.0.0
-    security_patch_level: '2026-06-05'
+    security_patch_level: '2026-07-05'
     bootloader: cloudripper-17.0-15199429
     radio: g5300q-260317-260505-b-15346003
-    cr: ECR-34
+    cr: ECR-33
   G03Z5-JP-256:
-    build_id: CP2A.260605.012
+    build_id: CP2A.260705.006
     android_version: 17.0.0
-    security_patch_level: '2026-06-05'
+    security_patch_level: '2026-07-05'
     bootloader: cloudripper-17.0-15199429
     radio: g5300q-260317-260505-b-15346003
-    cr: ECR-34
+    cr: ECR-33
