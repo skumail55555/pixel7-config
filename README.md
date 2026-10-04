@@ -1,0 +1,1 @@
+# pixel7-config
