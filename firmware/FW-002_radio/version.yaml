@@ -1,7 +1,7 @@
 ci_id: FW-002
 name: Radio (modem) firmware
 variant: all
-version: g5300q-260604-260807-b-16100000
+version: g5300q-260604-260807-b-16036236
 build_id: CP3A.260905.009
 cr: ECR-35
 source_type: real
