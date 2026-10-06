@@ -1,7 +1,7 @@
 ci_id: FW-001
 name: Bootloader
 variant: all
-version: cloudripper-16.4-14540572
+version: cloudripper-17.0-15902555
 build_id: CP3A.260905.009
 cr: ECR-35
 source_type: real
